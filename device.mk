@@ -14,6 +14,7 @@ $(call inherit-product, vendor/xiaomi/unicorn/unicorn-vendor.mk)
 PRODUCT_PACKAGES += \
     ApertureResUnicorn \
     FrameworksResUnicorn \
+    LineageResUnicorn \
     NfcResUnicorn \
     SettingsProviderResUnicorn \
     SettingsResUnicorn \
