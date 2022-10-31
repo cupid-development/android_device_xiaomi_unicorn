@@ -12,6 +12,7 @@ $(call inherit-product, vendor/xiaomi/unicorn/unicorn-vendor.mk)
 
 # Overlay
 PRODUCT_PACKAGES += \
+    ApertureResUnicorn \
     FrameworksResUnicorn \
     SettingsProviderResUnicorn \
     SystemUIResUnicorn \
