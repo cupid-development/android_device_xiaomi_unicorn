@@ -16,6 +16,7 @@ PRODUCT_PACKAGES += \
     FrameworksResUnicorn \
     NfcResUnicorn \
     SettingsProviderResUnicorn \
+    SettingsResUnicorn \
     SystemUIResUnicorn \
     WifiResUnicorn
 
