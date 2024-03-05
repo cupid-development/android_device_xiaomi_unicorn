@@ -16,7 +16,7 @@ RAM & Storage | 8GB/128GB, 8GB/256GB, 12GB/256GB, 12GB/512GB, 12GB/512GB (LPDDR5
 Shipped Android Version | 13
 Battery | Non-removable, 4600 mAh
 Display | 6.73″, LTPO 120Hz, 3200x1440 (522 ppi)
-Rear camera | 6.73″, LTPO 120Hz, 3200x1440 (522 ppi)
+Rear camera | 50MP wide angle, 50MP ultra wide-angle, 50MP telephoto
 Front camera | 32MP in-display
 
 ## Device picture
