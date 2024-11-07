@@ -5,7 +5,7 @@ Device configuration for Xiaomi 12S Pro
 
 The Xiaomi 12S Pro (codenamed _"unicorn"_) is a high-end smartphone from Xiaomi.
 
-It was released in July 2023.
+It was released in July 2022.
 
 ## Device specifications
 
