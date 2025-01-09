@@ -839,6 +839,7 @@ vendor/lib64/libmiphone_preview_depth.so
 vendor/lib64/libmiphone_preview_ldc.so
 vendor/lib64/libmiphone_preview_mdbokeh.so
 vendor/lib64/libmis_plugin_morpho.so
+vendor/lib64/libmis_plugin_vidhance.so
 vendor/lib64/libmmcamera_bestats.so
 vendor/lib64/libmmcamera_cac3.so
 vendor/lib64/libmmcamera_lscv35.so
